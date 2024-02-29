@@ -1,0 +1,66 @@
+.form-container {
+  background-color: pink;
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.input-container {
+  margin-bottom: 10px;
+}
+
+.long-input {
+  width: calc(100% - 22px);
+}
+
+.submit-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: darkblue;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.card-container {
+  background-color: pink;
+  border: 2px solid pink;
+  border-radius: 10px;
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card-button {
+  background-color: rgb(255, 251, 0);
+  color: rgb(24, 2, 2);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+.card-button:hover {
+  background-color: darkblue;
+}
